@@ -1,1 +1,3 @@
-
+<div>
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=700&size=15&color=57BFEA&multiline=True&repeat=False&width=800&height=820&lines=$+Pip+install+Kinga;;████████████████████████ 100%;;Successfully+installed+Kinga;;;$+Python+-m+Kinga+download+'en';;████████████████████████ 100%;;Installed+model+'en';;;$+Python;;>+import+Kinga;>+file+=+open('readme.md');>+print(file);;Hello,+if+you've+made+it+this+far,;don't+think+I'm+going+to+write+anything;creative+here,+I'm+just+trying+to+code+something,;fix+bugs,+and+turn+it+into+something+useful.;It+would+be+nice+to+make+someone's+job+more;enjoyable+without+having+to+deal+with+all+this.;Yes...that's+what+I'm+trying+to+do.;Thanks,+cheers." alt="Typing SVG" />
+</div>
